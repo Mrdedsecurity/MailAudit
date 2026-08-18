@@ -20,7 +20,7 @@ MailAudit requires **Python 3.8+** and `dnspython`.
 Install the required dependency:
 
 ```bash
-sudo apt install dnspython
+pip install dnspython
 ```
 
 ## Usage
