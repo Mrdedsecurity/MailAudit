@@ -93,11 +93,6 @@ An open SMTP relay may indicate that the mail server allows unauthorised users t
 | **FAIL** | Security issue detected  |
 | **WARN** | Needs review             |
 | **INFO** | Informational            |
-
-## Example
-
-```bash
-python mailaudit.py example.com -v
 ```
 
 MailAudit will run the available email security and configuration checks and report the results using the status levels above.
