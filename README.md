@@ -93,4 +93,3 @@ An open SMTP relay may indicate that the mail server allows unauthorised users t
 | **FAIL** | Security issue detected  |
 | **WARN** | Needs review             |
 | **INFO** | Informational            |
-```
