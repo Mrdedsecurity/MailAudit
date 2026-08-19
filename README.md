@@ -94,6 +94,3 @@ An open SMTP relay may indicate that the mail server allows unauthorised users t
 | **WARN** | Needs review             |
 | **INFO** | Informational            |
 ```
-
-MailAudit will run the available email security and configuration checks and report the results using the status levels above.
-
