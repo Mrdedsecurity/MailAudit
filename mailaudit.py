@@ -140,7 +140,7 @@ def check_spf(domain):
     )
 
     if len(spf_records) == 1:
-        return True, "SPF record found"
+        return True, spf_records[0]
 
     if len(spf_records) > 1:
         return False, (
